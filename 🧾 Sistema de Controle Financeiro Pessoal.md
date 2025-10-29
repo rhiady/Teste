@@ -1,19 +1,18 @@
+---
+title: 🧾 Sistema de Controle Financeiro Pessoal
+updated: 2025-10-29 22:51:52Z
+created: 2025-10-29 22:44:18Z
+latitude: -23.55051990
+longitude: -46.63330940
+altitude: 0.0000
+---
+
 # 🧾 Sistema de Controle Financeiro Pessoal
 
 ## 📝 Descrição do Sistema
 O sistema tem como objetivo permitir o **controle completo das finanças pessoais** do usuário, oferecendo funcionalidades que abrangem desde o **cadastro de contas bancárias e cartões de crédito** até o **lançamento e acompanhamento de contas a pagar e a receber**.  
 Também contempla **transferências entre contas**, **consultas de extratos**, **classificação de despesas e receitas** por centro de custo e **integração automática da movimentação bancária**.  
 
-O domínio é composto pelos seguintes módulos:
-- **Usuário** – identifica o proprietário dos dados financeiros.  
-- **Contas Bancárias** – gerencia saldos, lançamentos e movimentações.  
-- **Cartões de Crédito** – controla limite, fechamento e pagamento de faturas.  
-- **Lançamentos Financeiros** – representa obrigações (a pagar e a receber).  
-- **Pagamentos e Recebimentos** – efetivam as baixas dos lançamentos.  
-- **Movimentação de Contas** – registra débitos e créditos.  
-- **Centros de Custo e Entidades** – classificam despesas e receitas.  
-- **Transferências** – registram movimentações entre contas.  
-- **Relatórios e Consultas** – geram extratos e análises financeiras por período.  
 
 ---
 
@@ -52,3 +51,13 @@ O domínio é composto pelos seguintes módulos:
 **RNF08.** O layout deve ser **intuitivo e de fácil navegação**, priorizando clareza nas telas de extrato e lançamentos.  
 **RNF09.** O sistema deve ser **compatível com os principais navegadores modernos** (Chrome, Edge, Firefox).  
 **RNF10.** Deve estar preparado para **suportar múltiplos usuários simultâneos** sem degradação perceptível de desempenho.  
+
+
+![WebClipper.png](../_resources/WebClipper.png)
+
+TESTE
+imagem
+![SubNotebooks.png](../_resources/SubNotebooks.png)
+
+
+
